@@ -1,0 +1,67 @@
+.all{
+    background-color: #1A4314;
+    padding-bottom: 100px;
+}
+.brand-logo{
+    margin-left: 50px;
+}
+.right{
+    margin-right: 50px;
+}
+.container{
+    background-color: #B2D2A4;
+    color: #2C5E1A;
+    outline: solid black 2px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.create{
+    margin: 10px 0 0 10px;
+}
+.color-row{
+    background-color: rgb(128, 156, 116);
+}
+.player-list{
+    margin-top: 15px;
+}
+.form-group{
+    margin-top: 20px;
+    padding: 0 10px;
+}
+.action {
+    margin: 0 20px;
+}
+.title{
+    display: inline-block;
+    padding: 10px;
+}
+.title2{
+    display: inline-block;
+    margin-left: 250px;
+}
+.detail{
+    font-weight: bold;
+    margin-right: 15px;
+}
+.detail1{
+    margin-left: 10px;
+    font-size: 22px;
+}
+.adopt{
+    margin-left: 300px;
+}
+#contain{
+    margin-top: 30px;
+}
+.rowss{
+    padding: 10px 0;
+}
+.butt{
+    margin: 10px;
+    display: inline-block;
+}
+.likes{
+    display: inline-block;
+    font-size: 20px;
+}
+
